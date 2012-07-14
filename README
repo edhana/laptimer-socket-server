@@ -1,0 +1,10 @@
+Laptimer Socket Server
+
+This project target to create a socket server to be used by the devices running the Whitesheep laptimer client.
+
+TECHNICAL
+---------
+
+Mvn creation command :
+$ mvn archetype:create -DgroupId=br.com.whitesheep.laptimer -DartifactId=laptimer-socket-server
+
